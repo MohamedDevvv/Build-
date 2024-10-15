@@ -22,6 +22,6 @@
   <project path="hardware/mediatek" name="hardware_mediatek" remote="t13" revision="lineage-21" />
     
   <!-- sepolicy -->
-  <project path="device/mediatek/sepolicy_vndr" name="device_mediatek_sepolicy_vndr" remote="t13" revision="lineage-21" />
+  <project path="device/mediatek/sepolicy_vndr" name="android_device_mediatek_sepolicy_vndr" remote="t13" revision="fourteen" />
 
 </manifest>
