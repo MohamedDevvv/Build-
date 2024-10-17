@@ -23,6 +23,6 @@
   
     
   <!-- sepolicy -->
-  <project path="device/mediatek/sepolicy_vndr" name="android_device_mediatek_sepolicy_vndr" remote="t13" revision="fourteen" />
+  <project path="device/mediatek/sepolicy_vndr" name="device_mediatek_sepolicy_vndr" remote="t13" revision="lineage-21" />
 
 </manifest>
