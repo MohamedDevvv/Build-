@@ -2,7 +2,7 @@
 <manifest>
 
   <remote name="t13" fetch="https://github.com/MohamedDevvv" />
-  <remote name="MAT" fetch="https://github.com/ProjectMatrixx/android" />
+  <remote name="MAT" fetch="https://github.com/OrionOS-prjkt/android" />
 
   <!-- /* device specific */ -->
 
